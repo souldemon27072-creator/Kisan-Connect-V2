@@ -1,0 +1,6 @@
+{
+  "name": "Smart KrishiDirect",
+  "description": "Direct Farmer-to-Buyer agricultural marketplace with multi-role authentication portals & passwords for Farmers, Buyers, and APMC Auditors, live APMC AI pricing advisor, delivery partner network, voice input multi-language auto-fill, escrow smart contracts, order tracking, cold storage locator, and ground audit verification.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
